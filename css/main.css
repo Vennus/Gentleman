@@ -1,0 +1,32 @@
+
+/*--HEADER--*/
+header{
+	background: black;
+	color:white;
+	padding: 40px;
+}
+header a{
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+	padding-right: 10px;
+}
+header h1{
+	font-family: 'Dosis';
+}
+section img {
+	width: 80%;
+	text-align: center;
+}
+section .img-city {
+	padding-top: 20px;
+}
+
+
+
+
+
+/*FOOTER*/
+footer {
+	background: gray;
+}
